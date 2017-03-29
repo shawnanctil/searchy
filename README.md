@@ -1,4 +1,4 @@
-Search Mining
+## Search Mining
 
 The following scripts allow you to have a little fun with Google's search suggest feature and fetch the top 10 results from Google searches for a list of keywords.
 
